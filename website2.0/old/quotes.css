@@ -1,0 +1,11 @@
+.quote-hide {
+  display: none;
+}
+.quote-box {
+	text-align: center;
+}
+
+cite {
+	font-size: 80%;
+	color: #999;
+}

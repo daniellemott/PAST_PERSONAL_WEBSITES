@@ -1,0 +1,20 @@
+@media screen and (max-width: 560px) {
+  .border {
+    flex-direction: column;
+  }
+
+  div.colBorder {
+    width: 95%;
+  }
+
+}
+
+@media screen and (max-width: 490px) {
+  div.border {
+    margin: 1px;
+  }
+
+  h1 {
+    width: 200px;
+  }
+}

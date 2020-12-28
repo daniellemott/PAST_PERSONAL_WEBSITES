@@ -1,0 +1,72 @@
+@media screen and (min-width: 1060px) {
+  .intro {
+    width: 91%;
+  }
+
+}
+
+@media screen and (max-width: 1160px) {
+  .columnA {
+    width: 50%;
+  }
+
+#top {
+    display: inline;
+    }
+#positionInside li {
+  display: inline;
+
+  }
+.position {
+  margin-top: 1rem;
+  position: relative;
+  text-align: center;
+  top: 82%;
+  }
+
+  .scroll, .other {
+    width: 65%;
+  }
+
+  ul#positionInside.position {
+    margin-bottom: 0;
+    padding-bottom: 1rem;
+  }
+
+}
+
+@media screen and (max-width: 630px) {
+  .scroll, .other {
+    width: 75%;
+  }
+
+  .fa {
+    padding: 12px;
+    font-size: 12px;
+    width: 12px;
+    margin-top: 5px;
+    margin-right: 0;
+  }
+
+  .main {
+    padding: 0;
+  }
+
+  .flexBoxContainer{
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 0;
+  }
+
+  .aCol {
+    margin-left: 0;
+    width: 95%;
+    margin: auto;
+  }
+
+  h1, h2 {
+    font-size: 1.25rem;
+    padding-right: 0.2rem;
+  }
+
+}

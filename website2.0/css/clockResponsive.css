@@ -1,0 +1,76 @@
+@media screen and (max-width: 1150px) {
+  .fa {
+    padding: 15px;
+    font-size: 15px;
+    width: 15px;
+    margin-top: 5px;
+    margin-right: 0;
+  }
+
+  ul#positionInside.position {
+    margin-right: 0.4rem;
+  }
+}
+
+@media screen and (max-width: 860px) {
+  #top {
+      display: inline;
+      }
+  #positionInside li {
+    display: inline;
+
+    }
+  .position {
+    margin-top: 1rem;
+    position: relative;
+    text-align: center;
+    top: 82%;
+    }
+}
+
+@media screen and (max-width: 780px) {
+  div.clockContainer {
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  div.relative {
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 585px) {
+  div.clockContainer {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  div.relative {
+    height: 150px;
+  }
+
+  .main {
+    padding-left: 0.4rem;
+  }
+
+  footer {
+    font-size: 0.5rem;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  div.relative {
+    height: 100px;
+  }
+
+  div.clockContainer {
+    top: 30%;
+    font-size: 0.75rem;
+  }
+}

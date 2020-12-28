@@ -1,0 +1,115 @@
+.main {
+  padding-left: 0;
+}
+
+#top {
+    display: inline;
+  }
+
+#positionInside li {
+  display: inline;
+
+}
+
+.position {
+  position: relative;
+  text-align: center;
+  top: 82%;
+}
+
+.container {
+  justify-content: center;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 15px;
+  width: 15px;
+  margin-top: 5px;
+  margin-right: 0;
+}
+
+.border {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 1rem 0 1rem;
+}
+
+.colBorder {
+  width: 45%;
+  border-style: solid;
+  padding: 15px;
+}
+
+.colBorder h1 {
+  margin: 0;
+}
+
+#answer, #decodeAnsw {
+  text-align: center;
+}
+
+#redBorder, #blueBorder, #blueBorderTwo {
+  padding: 10px;
+  width: 40%;
+  border-radius: 6px;
+}
+
+#blueBorder {
+  padding: 10px;
+  width: 60%;
+  border-radius: 6px;
+}
+
+#blueBorderTwo {
+  margin: auto;
+}
+
+button {
+  margin-left: 3px;
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 7px 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 10px;
+
+}
+
+button:hover {
+  cursor: pointer;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+input {
+  height: 1.3rem;
+  font-size: 1.1rem;
+  display: inline;
+  width: 90px;
+  border-style: solid;
+  border-radius: 4px;
+}
+
+#firstResult, #secondResult, #thirdResult, #phi, #four, #sixthResult {
+  font-style: italic;
+}
+
+.history {
+  margin: 0 1rem 0 1rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+}
+
+div.dropdown {
+  background-color: white;
+  color: black;
+}

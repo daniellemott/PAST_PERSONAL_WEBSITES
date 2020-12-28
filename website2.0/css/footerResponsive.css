@@ -1,0 +1,9 @@
+@media screen and (max-width: 690px) {
+  .lider .quote {
+    font-size: 0.8rem;
+  }
+
+  .lider .source {
+    font-size: 0.7rem;
+  }
+}
